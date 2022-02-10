@@ -1,0 +1,41 @@
+@import './base/variables';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, sans-serif;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $gray-500;
+}
+
+h2, h4 {
+  color: $gray-900;
+  font-weight: 500;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.btn {
+  @extend %medium-text;
+  padding: 9px 15px;
+  font-family: inherit;  
+  color: $gray-700;
+  background: none;
+  outline: none;
+  border: 1px solid $gray-300;
+  box-shadow: $shadow-xs;
+  border-radius: $radius-sm;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  span { 
+    padding-left: 10.5px;
+  }
+}
