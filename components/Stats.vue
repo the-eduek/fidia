@@ -74,7 +74,6 @@
 
             <td class="hidden">
               <img :src="user" :alt="`avatar-${index + 1}`" v-for="(user, index) in data.users" :key="`user-${index}`" />
-              {{ user}}
             </td>
 
             <td class="hidden">

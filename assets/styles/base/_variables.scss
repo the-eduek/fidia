@@ -1,3 +1,24 @@
+@font-face {
+  font-family: "Inter";
+  src: url(@/assets/fonts/Inter-Regular.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(@/assets/fonts/Inter-Medium.ttf) format("ttf");  
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(@/assets/fonts/Inter-SemiBold.ttf) format("ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+
 $gray-200: #EAECF0;
 $gray-300: #D0D5DD;
 $gray-500: #667085;
