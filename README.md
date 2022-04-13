@@ -1,5 +1,7 @@
 # fidia
 
+[Link to Figma File](https://www.figma.com/file/eXk5QkQgBo89Srz5Gp4NVN/Frontend-Engineer-Task?node-id=1%3A12062)
+
 ## Build Setup
 
 ```bash
