@@ -39,12 +39,12 @@
             <th>
               <img src="../static/images/icons/checkbox.svg" alt="checkbox icon" />
             </th>
-            <th class="">Company
+            <th>Company
               <svg width="10" height="10" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M5.99998 1.33333V10.6667M5.99998 10.6667L10.6666 6M5.99998 10.6667L1.33331 6" stroke="#667085" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
             </th>
-            <th class="">License use</th>
+            <th>License use</th>
             <th class="hidden">Status</th>
             <th class="hidden">Users</th>
             <th class="hidden">About</th>
